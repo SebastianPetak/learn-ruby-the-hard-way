@@ -1,0 +1,24 @@
+puts "Hi"
+sleep 1.5
+puts "There"
+sleep 2
+puts "I"
+sleep 0.5
+puts "hope"
+sleep 0.5
+puts "you"
+sleep 0.5
+puts "had"
+sleep 0.5
+puts "a"
+sleep 0.5
+puts "good"
+sleep 0.5
+puts "time"
+sleep 1
+print "\n"
+sleep 1
+puts "Goodbye"
+sleep 0.5
+print "\n"
+exit(0)
