@@ -4,4 +4,5 @@ ex39databases contains the module dict.rb and a few extra scripts including prom
 
 ex36game contains GTL.rb which is a text based adventure game (strong language). Action is dependent on user input as well as the current state of an array being passed throughout he script.
 
-
+ex45 has a simple game utilizing modules, classes, composition, and inheritance.
+From the ex45 folder, run the game by typing: ruby stairwaygame.rb 
